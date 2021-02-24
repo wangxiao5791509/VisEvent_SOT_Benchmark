@@ -26,7 +26,7 @@ The First Benchmark for fusing RGB and Event flow for Reliable Object Tracking
 
 
 ## Synthetic Dataset: 
-In this work,  we also provide a synthetic visual tracking dataset [[RGBE-NfS dataset](http://ci2cv.net/nfs/index.html)] which contains both RGB and Event flows. The toolkit v2e is used for the transformation. 
+Two synthetic visual tracking dataset [[NfS-V2E](http://ci2cv.net/nfs/index.html)] and [[GOT180-V2E]()] are provided for Evaluation using toolkit [[V2E](https://github.com/SensorsINI/v2e)]. 
 
 
 
