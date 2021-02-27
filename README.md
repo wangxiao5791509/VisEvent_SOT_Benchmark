@@ -1,8 +1,10 @@
 # RGB_Event_Tracking_Benchmark
 The First Benchmark for fusing RGB and Event flow for Reliable Object Tracking
 
-![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
 
+## VisEvent: 
+![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
+The source code of baseline trackers by fusing dual-modalities can be found at: [[DualModality_SOT_Python3](https://github.com/wangxiao5791509/DualModality_SOT_Python3)]. 
 
 
 
@@ -25,7 +27,7 @@ The First Benchmark for fusing RGB and Event flow for Reliable Object Tracking
 
 
 ## Synthetic Dataset: 
-Two synthetic visual tracking dataset [[NfS-V2E](http://ci2cv.net/nfs/index.html)] and [[GOT180-V2E]()] are provided for Evaluation using toolkit [[V2E](https://github.com/SensorsINI/v2e)]. 
+The synthetic visual tracking dataset [[NfS-V2E](http://ci2cv.net/nfs/index.html)] is provided for Evaluation using toolkit [[V2E](https://github.com/SensorsINI/v2e)]. 
 
 
 
