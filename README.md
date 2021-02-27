@@ -1,8 +1,7 @@
 # RGB_Event_Tracking_Benchmark
 The First Benchmark for fusing RGB and Event flow for Reliable Object Tracking
 
-
-
+![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
 
 
 
