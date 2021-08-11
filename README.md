@@ -1,5 +1,5 @@
-# RGB_Event_Tracking_Benchmark
-The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event flows. 
+# VisEvent_Tracking_Benchmark
+The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras. 
 
 **Paper**: VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows 
 **Project**: https://sites.google.com/view/viseventtrack/ 
