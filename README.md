@@ -1,7 +1,8 @@
 # VisEvent_Tracking_Benchmark
 The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras. 
 
-**Paper**: VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows 
+**Paper**: VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows [[arxiv](https://arxiv.org/pdf/2108.05015.pdf)]
+
 **Project**: https://sites.google.com/view/viseventtrack/ 
 
 
@@ -43,7 +44,7 @@ If you use our dataset or the synthetic RGBE-NfS dataset, please cite the follow
 @article{wang2021viseventbenchmark,
   title={VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows},
   author={Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu},
-  journal={arXiv preprint},
+  journal={arXiv:2108.05015},
   year={2021}
 }
 ~~~
