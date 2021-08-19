@@ -24,22 +24,21 @@ Currently, the dataset can be obtained from:
 Only matlab version is available. 
 
 **1. Download this github:**
-git clone https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark
+    
+    git clone https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark
 
 **2. Download the tracking results of our benchmark:**
 [[**GoogleDrive (181.5MB)**](https://drive.google.com/file/d/1slfxEOtmSAQFRv_OmDeeoiiK1F-DqhEz/view?usp=sharing)]
 
-unzip **tracking_results_VisEvent_SOT_benchmark.zip**, and put it into the folder "**tracking_results**". 
+    unzip **tracking_results_VisEvent_SOT_benchmark.zip**, and put it into the folder "**tracking_results**". 
 
-3. Unzip the "**annos.zip**" in the folder "annos" 
+**3. Unzip the "**annos.zip**" in the folder "annos" **
 
-4. Open your matlab, and run the script "**Evaluate_VisEvent_SOT_benchmark.m**" 
+**4. Open your matlab, and run the script "**Evaluate_VisEvent_SOT_benchmark.m**" **
 
-5. Wait and check the final evaluated figures: 
+**5. Wait and check the final evaluated figures: **
 
-
-
-
+![visevent-example](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/res_fig/VisEvent_benchmark_results.png)
 
 
 
