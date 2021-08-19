@@ -1,7 +1,7 @@
 # VisEvent_SOT_Benchmark
 The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras. 
 
-VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu **[[Paper](https://arxiv.org/pdf/2108.05015.pdf)] [[Project](https://sites.google.com/view/viseventtrack/)] [[DemoVideo](https://www.youtube.com/watch?v=U4uUjci9Gjc)]** 
+**VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu **[[Paper](https://arxiv.org/pdf/2108.05015.pdf)] [[Project](https://sites.google.com/view/viseventtrack/)] [[DemoVideo](https://www.youtube.com/watch?v=U4uUjci9Gjc)]** 
 
 
 ## Abstract 
@@ -17,11 +17,7 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 ## How to Download VisEvent Dataset? 
 Currently, the dataset can be obtained from: 
 
-[[BaiduYun]()] 
-
-[[GoogleDrive]()] 
-
-[[OneDrive]()] 
+[[BaiduYun]()] [[GoogleDrive]()] [[OneDrive]()] 
 
 
 ## Evaluation ToolKit 
@@ -55,7 +51,7 @@ Only matlab version is available.
 If you find this work useful for your research, please cite the following papers: 
 
 ~~~
-@article{**wang2021viseventbenchmark**,
+@article{wang2021viseventbenchmark,
   title={VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows},
   author={Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu},
   journal={arXiv:2108.05015},
