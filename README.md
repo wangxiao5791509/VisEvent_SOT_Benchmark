@@ -34,13 +34,8 @@ Only matlab version is available.
 
 **3. Unzip the "annos.zip" in the folder "annos"**
 
-**4. Open your matlab, and run the script "Evaluate_VisEvent_SOT_benchmark.m"**
-
-**5. Wait and check the final evaluated figures:**
-
-![visevent-example](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/res_fig/VisEvent_benchmark_results.png)
-
-
+**4. Open your matlab, and run the script "Evaluate_VisEvent_SOT_benchmark.m". Wait and check the final evaluated figures**
+<img src="res_fig/VisEvent_benchmark_results.pngG" width="650"> 
 
 
 
