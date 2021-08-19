@@ -17,7 +17,7 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 ## How to Download VisEvent Dataset? 
 Currently, the dataset can be obtained from: 
 
-[[BaiduYun]()] [[GoogleDrive]()] [[OneDrive]()] 
+[[**BaiduYun**]()] [[**GoogleDrive**]()] [[**OneDrive**]()] 
 
 
 ## Evaluation ToolKit 
@@ -35,7 +35,11 @@ Only matlab version is available.
 
 
 
-
+## More Related Materials 
+* [Github-1] https://github.com/wangxiao5791509/SNN_CV_Applications_Resources 
+* [Github-2] https://github.com/uzh-rpg/event-based_vision_resources 
+* **神经形态视觉传感器的研究进展及应用综述**，计算机学报，李家宁, 田永鸿 [[Paper](https://drive.google.com/file/d/1d7igUbIrEWxmUI7xq75P6h_I4H7uI3FA/view?usp=sharing)] 
+* **Event-based Vision: A Survey**, Guillermo Gallego, et al., IEEE T-PAMI 2020, [[Paper](https://arxiv.org/abs/1904.08405)]
 
 
 
