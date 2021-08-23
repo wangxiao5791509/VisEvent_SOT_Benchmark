@@ -63,14 +63,14 @@ Only matlab version is available.
 ## Citation: 
 If you find this work useful for your research, please cite the following papers: 
 
-~~~
+```bibtex
 @article{wang2021viseventbenchmark,
   title={VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows},
   author={Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu},
   journal={arXiv:2108.05015},
   year={2021}
 }
-~~~
+```
 
 If you have any questions about this work, please submit an issue or contact me via wangxiaocvpr@foxmail.com. Thanks for your attention! 
 
