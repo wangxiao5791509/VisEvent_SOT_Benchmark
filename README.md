@@ -4,20 +4,25 @@ The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing R
 **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu **[[Paper](https://arxiv.org/pdf/2108.05015.pdf)] [[Project](https://sites.google.com/view/viseventtrack/)] [[DemoVideo](https://www.youtube.com/watch?v=U4uUjci9Gjc)]** 
 
 
-## Abstract 
+## Introduction 
 Different from visible cameras which record intensity images frame by frame, the biologically inspired event camera produces a stream of asynchronous and sparse events with much lower latency. In practice, the visible cameras can better perceive texture details and slow motion, while event cameras can be free from motion blurs and have a larger dynamic range which enables them to work well under fast motion and low illumination. Therefore, the two sensors can cooperate with each other to achieve more reliable object tracking. In this work, we propose a large-scale Visible-Event benchmark (termed VisEvent) due to the lack of a realistic and scaled dataset for this task. Our dataset consists of 820 video pairs captured under low illumination, high speed, and background clutter scenarios, and it is divided into a training and a testing subset, each of which contains 500 and 320 videos, respectively. Based on VisEvent, we transform the event flows into event images and construct more than 30 baseline methods by extending current single-modality trackers into dual-modality versions. More importantly, we further build a simple but effective tracking algorithm by proposing a cross-modality transformer, to achieve more effective feature fusion between visible and event data. Extensive experiments on the proposed VisEvent dataset, and two simulated datasets (i.e., OTB-DVS and VOT-DVS), validated the effectiveness of our model. 
 
 
 ## Dataset Samples 
 ![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
-The source code of baseline trackers by fusing dual-modalities can be found at: [[DualModality_SOT_Python3](https://github.com/wangxiao5791509/DualModality_SOT_Python3)]. 
-
-
 
 ## How to Download VisEvent Dataset? 
 Currently, the dataset can be obtained from: 
 
 [[**BaiduYun**]()] [[**GoogleDrive**]()] [[**OneDrive**]()] 
+
+
+## Baseline Methods
+The source code of baseline trackers by fusing dual-modalities can be found at: [[DualModality_SOT_Python3](https://github.com/wangxiao5791509/DualModality_SOT_Python3)]. 
+
+CMT-based MDNet: 
+
+CMT-based RT-MDNet: 
 
 
 ## Evaluation ToolKit 
