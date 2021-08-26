@@ -17,11 +17,7 @@ We provide both the original **aedat4** (contains the RGB frames, event, time-st
 
 
 ## Baseline Methods
-The source code of baseline trackers by fusing dual-modalities can be found at: [[RGB-DVS-SOT-Baselines](https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines)]. 
-
-CMT-based MDNet: 
-
-CMT-based RT-MDNet: 
+The source code of baseline trackers by fusing dual-modalities can be found at: [[RGB-DVS-SOT-Baselines](https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines)].
 
 
 ## Evaluation ToolKit 
