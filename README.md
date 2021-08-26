@@ -12,7 +12,7 @@ Different from visible cameras which record intensity images frame by frame, the
 ![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
 
 ## How to Download VisEvent Dataset? 
-Currently, the dataset can be obtained from: 
+We provide both the original **aedat4** (contains the RGB frames, event, time-stamp) and **image** format for VisEvent dataset. Currently, the dataset can be obtained from: 
 
 [[**BaiduYun**]()] [[**GoogleDrive**]()] [[**OneDrive**]()] 
 
