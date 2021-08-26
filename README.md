@@ -13,7 +13,6 @@ Different from visible cameras which record intensity images frame by frame, the
 
 ## How to Download VisEvent Dataset? 
 We provide both the original **aedat4** (contains the RGB frames, event, time-stamp) and **image** format for VisEvent dataset. Currently, the dataset can be obtained from: 
-
 [[**BaiduYun**]()] [[**GoogleDrive**]()] [[**OneDrive**]()] 
 
 
