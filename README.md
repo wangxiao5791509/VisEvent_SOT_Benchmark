@@ -35,7 +35,7 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 ## How to load the aedat4 file? 
 We provide a python script (**read_aedat4.py**) to load the aedat4 file. Here is an example: 
 
-1). Install the required toolkit [[**dv-gui**](https://inivation.gitlab.io/dv/dv-docs/docs/getting-started.html)]. Use different scripts for various Ubuntu OS: 
+1). Install the required toolkit [[**dv-gui**](https://inivation.gitlab.io/dv/dv-docs/docs/getting-started.html)]. Please use different scripts for various Ubuntu OS: 
 
 **Ubuntu 20.04**:
 
@@ -58,6 +58,16 @@ We provide a python script (**read_aedat4.py**) to load the aedat4 file. Here is
     sudo add-apt-repository ppa:inivation-ppa/inivation-xenial 
     sudo apt-get update 
     sudo apt-get install dv-gui
+
+Other softwares:
+
+    pip install opencv-python numpy pillow -i https://pypi.tuna.tsinghua.edu.cn/simple 
+
+
+2). Open your terminal and run the script: 
+
+python read_aedat4.py
+
 
 
 
