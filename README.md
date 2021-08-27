@@ -31,6 +31,18 @@ Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT
 The source code of baseline trackers by fusing dual-modalities can be found at: [[RGB-DVS-SOT-Baselines](https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines)].
 
 
+
+## How to load the aedat4 file? 
+We provide a python script (**read_aedat4.py**) to load the aedat4 file. Here is an example: 
+
+
+
+
+
+
+
+
+
 ## Evaluation ToolKit 
 Only matlab version is available. 
 
