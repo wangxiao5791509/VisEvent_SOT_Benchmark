@@ -66,7 +66,7 @@ Other softwares:
 
 2). Open your terminal and run the script: 
 
-python read_aedat4.py
+    python read_aedat4.py
 
 
 
