@@ -33,7 +33,7 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 
 
 ## How to load the aedat4 file? 
-We provide a python script (**read_aedat4.py**) to load the aedat4 file. Here is an example: 
+We provide a python script ([**read_aedat4.py**](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/scripts/read_aedat4.py)) to load the aedat4 file. Here is an example: 
 
 1). Install the required toolkit [[**dv-gui**](https://inivation.gitlab.io/dv/dv-docs/docs/getting-started.html)]. Please use different scripts for various Ubuntu OS: 
 
