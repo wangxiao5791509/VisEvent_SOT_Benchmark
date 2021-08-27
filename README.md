@@ -21,8 +21,7 @@ Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT
 
 
 **The "aedat4" version:** 
-Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2008-57-19.png
-" width="200" align="left"> 
+Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2008-57-19.png" width="200" align="left"> 
 
 [[BaiduYun(Code: )]()] [[Googledrive]()] [[Onedrive]()]
 
