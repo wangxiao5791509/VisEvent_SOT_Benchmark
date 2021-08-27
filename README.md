@@ -36,18 +36,22 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 We provide a python script (**read_aedat4.py**) to load the aedat4 file. Here is an example: 
 
 1). Install the required toolkit [[**dv-gui**](https://inivation.gitlab.io/dv/dv-docs/docs/getting-started.html)]. Use different scripts for various Ubuntu OS: 
+
 **Ubuntu 20.04**:
+
     sudo add-apt-repository ppa:inivation-ppa/inivation
     sudo apt-get update
     sudo apt-get install dv-gui
 
 **Ubuntu 18.04**: 
+
     sudo add-apt-repository ppa:ubuntu-toolchain-r/test
     sudo add-apt-repository ppa:inivation-ppa/inivation-bionic
     sudo apt-get update
     sudo apt-get install dv-gui
 
 **Ubuntu 16.04**: 
+
     sudo add-apt-repository ppa:ubuntu-toolchain-r/test 
     sudo add-apt-repository ppa:lkoppel/opencv 
     sudo add-apt-repository ppa:janisozaur/cmake-update 
