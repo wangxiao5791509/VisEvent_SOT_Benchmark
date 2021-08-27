@@ -64,7 +64,7 @@ Other softwares:
     pip install opencv-python numpy pillow -i https://pypi.tuna.tsinghua.edu.cn/simple 
 
 
-2). Open your terminal and run the script: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2012-29-25.png" width="400" align="left">
+2). Open your terminal and run the script: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2012-29-25.png" width="300" align="left">
 
     python read_aedat4.py
 
