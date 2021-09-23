@@ -127,7 +127,7 @@ Only matlab version is available.
 
 
 
-## Citation: 
+## :page_with_curl: BibTex: 
 If you find this work useful for your research, please cite the following papers: 
 
 ```bibtex
