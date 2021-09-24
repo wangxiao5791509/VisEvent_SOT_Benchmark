@@ -71,6 +71,7 @@ Other softwares:
     pip install dv
     pip install opencv-python numpy pillow -i https://pypi.tuna.tsinghua.edu.cn/simple 
 
+[ref] [https://gitlab.com/inivation/dv/dv-python](https://gitlab.com/inivation/dv/dv-python)
 
 2). Open your terminal and run the script: 
 
