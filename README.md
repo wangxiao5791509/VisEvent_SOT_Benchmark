@@ -68,6 +68,7 @@ We provide a python script ([**read_aedat4.py**](https://github.com/wangxiao5791
 
 Other softwares:
 
+    pip install dv
     pip install opencv-python numpy pillow -i https://pypi.tuna.tsinghua.edu.cn/simple 
 
 
