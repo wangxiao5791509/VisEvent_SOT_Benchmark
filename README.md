@@ -6,7 +6,7 @@ The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing R
 
 
 ## News: 
-* We found the download links for the dataset are fail (both the onedrive and googledrive). We will update the link in one week. Sorry for any inconvenience. 
+* 2021.10.13 Update the links for onedrive.  
 
 
 
@@ -23,14 +23,14 @@ We provide both the original **aedat4** (contains the RGB frames, event, time-st
 **The "Image" only version (about 63.7 GB):** 
 Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2009-08-23.png" width="200" align="left"> 
 [[**BaiduYun (Code: pclt)**](https://pan.baidu.com/s/1E7dgAxHV2QFPByKs3is7nw)] 
-[[**GoogleDrive**](https://drive.google.com/drive/folders/1o_hZmZGUbZspxsj2a32vHNL8WwiMJ_Sh?usp=sharing)] 
+[[**GoogleDrive**]] 
 [[**OneDrive**](https://stuahueducn-my.sharepoint.com/:f:/g/personal/e16101002_stuahueducn_onmicrosoft_com/Em_Cv5OzNpBAjlhzOHeqwxEBR4B2Xrj3hqMIk-U0RvKXzg?e=EBJWkR)] 
 
 
 **The "aedat4" version (about 226.0 GB):** 
 Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2008-57-19.png" width="200" align="left"> 
 [[**BaiduYun(Code: pclt)**](https://pan.baidu.com/s/122DXDc7OO5mB78kbU-G98Q)] 
-[[**Googledrive**](https://drive.google.com/drive/folders/1OiLffczdVcs_QQKwUo0hdtVeIFglhsCp?usp=sharing)] 
+[[**Googledrive**]] 
 [[**Onedrive**](https://stuahueducn-my.sharepoint.com/:f:/g/personal/e16101002_stuahueducn_onmicrosoft_com/EkEqjE5_M1lKjyc__fq8o5oBYR9cVqyFOvmSguz-ro111A?e=4K8Vue)]
 
 
