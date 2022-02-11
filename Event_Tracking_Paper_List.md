@@ -8,7 +8,7 @@
 [C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13043-13052.
 
 * Real-Time Event-Based Tracking and Detection for Maritime Environments, 
-Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, and Justin Mauger, 
+Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, and Justin Mauger,  IEEE AIPR 2021 (Oral) 
 [[Paper](https://arxiv.org/pdf/2202.04231.pdf)]
 
 * Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking，CGI 2021, 
