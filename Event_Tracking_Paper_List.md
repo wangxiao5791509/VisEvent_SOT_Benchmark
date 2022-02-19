@@ -1,8 +1,11 @@
 
-# Paper list for event camera based tracking 
+# Paper list for event camera (spiking neural network) based tracking 
 
 
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows.** Wang, Xiao, et al. arXiv preprint arXiv:2108.05015 (2021). 
+
+* Luo, Yihao, et al. "**Conversion of Siamese networks to spiking neural networks for energy-efficient object tracking.**" 
+Neural Computing and Applications (2022): 1-16. [[Paper](https://link.springer.com/content/pdf/10.1007/s00521-022-06984-1.pdf)]
 
 * Zhang J, Yang X, Fu Y, et al. Object Tracking by Jointly Exploiting Frame and Event Domain
 [C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13043-13052.
