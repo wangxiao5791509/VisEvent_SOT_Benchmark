@@ -7,8 +7,6 @@ The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing R
 
 ## News: 
 
-* 2022.03.23 The dataset is under reorganization, the download link is invalid now. Will be updated soon. 
-
 * 2022.02.10 Update paper list for event camera based tracking [[Event_Tracking_Paper_List](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Event_Tracking_Paper_List.md)]. 
 
 * 2021.10.13 Update the links for onedrive. 
