@@ -1,8 +1,24 @@
-# VisEvent_SOT_Benchmark <img src="visevent_art.png" width="400" align="right"> 
-The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras. 
+<div align="center">
 
-> **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu 
-> **[[Paper](https://arxiv.org/pdf/2108.05015.pdf)] [[Project](https://sites.google.com/view/viseventtrack/)] [[DemoVideo](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://www.youtube.com/watch?v=vGwHI2d2AX0&ab_channel=XiaoWang)]** 
+<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_art.jpg" width="600">
+  
+** The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras **
+
+------
+
+<p align="center">
+  <a href="https://sites.google.com/view/viseventtrack/">Project</a> •
+  <a href="https://arxiv.org/abs/2108.05015">arXiv</a> • 
+  <a href="https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines">Baselines</a> •
+  <a href="https://youtu.be/U4uUjci9Gjc">DemoVideo</a> • 
+  <a href="https://youtu.be/vGwHI2d2AX0">Tutorial</a> •
+</p>
+
+</div>
+
+> **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows[J]** arXiv preprint arXiv:2108.05015, 2021, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu 
+
+
 
 
 ## News: 
@@ -17,23 +33,29 @@ The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing R
 Different from visible cameras which record intensity images frame by frame, the biologically inspired event camera produces a stream of asynchronous and sparse events with much lower latency. In practice, the visible cameras can better perceive texture details and slow motion, while event cameras can be free from motion blurs and have a larger dynamic range which enables them to work well under fast motion and low illumination. Therefore, the two sensors can cooperate with each other to achieve more reliable object tracking. In this work, we propose a large-scale Visible-Event benchmark (termed VisEvent) due to the lack of a realistic and scaled dataset for this task. Our dataset consists of 820 video pairs captured under low illumination, high speed, and background clutter scenarios, and it is divided into a training and a testing subset, each of which contains 500 and 320 videos, respectively. Based on VisEvent, we transform the event flows into event images and construct more than 30 baseline methods by extending current single-modality trackers into dual-modality versions. More importantly, we further build a simple but effective tracking algorithm by proposing a cross-modality transformer, to achieve more effective feature fusion between visible and event data. Extensive experiments on the proposed VisEvent dataset, and two simulated datasets (i.e., OTB-DVS and VOT-DVS), validated the effectiveness of our model. 
 
 
-## Dataset Samples 
+## Demo Video
+A demo video for the VisEvent can be found by cliking the image below: 
+<p align="center">
+  <a href="https://youtu.be/U4uUjci9Gjc">
+    <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_demoIMG.jpg" alt="VisEvent_DemoVideo" width="700"/>
+  </a>
+</p>
+
 ![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
 
+## Video Tutorial
+The tutorial for this paper can be found by cliking the image below: 
+<p align="center">
+  <a href="https://youtu.be/vGwHI2d2AX0">
+    <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_tutorial.jpg" alt="VisEvent_DemoVideo" width="700"/>
+  </a>
+</p>
+
+
+
+
 ## How to Download VisEvent Dataset? 
-We provide both the original **aedat4** (contains the RGB frames, event, time-stamp) and **image** format for VisEvent dataset. 
-
-**The "Image" only version (about 63.7 GB):** 
-Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2009-08-23.png" width="200" align="left"> 
-[[**BaiduYun (Code: pclt)**]] 
-[[**OneDrive**]] 
-
-
-**The "aedat4" version (about 226.0 GB):** 
-Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Screenshot%20from%202021-08-27%2008-57-19.png" width="200" align="left"> 
-[[**BaiduYun(Code: pclt)**]] 
-[[**Googledrive**]] 
-[[**Onedrive**]]
+Uploading ... Please wait ... 
 
 
  
@@ -43,6 +65,9 @@ Preview of each files: <img src="https://github.com/wangxiao5791509/VisEvent_SOT
 
 ## Baseline Methods
 The source code of baseline trackers by fusing dual-modalities can be found at: [[RGB-DVS-SOT-Baselines](https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines)].
+
+<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_baselines.png" alt="VisEvent_Baselines" width="700"/>
+
 
 
 
@@ -148,7 +173,7 @@ If you find this work useful for your research, please cite the following papers
 }
 ```
 
-If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com, or **wechat**: wangxiao5791509. Thanks for your attention! 
+If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com, xiaowang@ahu.edu.cn, or **Wechat**: wangxiao5791509. Thanks for your attention! 
 
 
 
