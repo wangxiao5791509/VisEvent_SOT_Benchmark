@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_art.jpg" width="700">
+<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_art.jpg" width="600">
   
 **The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras**
 
@@ -41,7 +41,14 @@ A demo video for the VisEvent can be found by cliking the image below:
   </a>
 </p>
 
-<img src="https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png" alt="VisEvent_examples" width="700"/>
+<p align="center">
+  <a href="https://youtu.be/U4uUjci9Gjc">
+    <img src="https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png" alt="VisEvent_examples" width="700"/>
+  </a>
+</p>
+
+
+
 
 ## Video Tutorial
 The tutorial for this paper can be found by cliking the image below: 
