@@ -41,7 +41,7 @@ A demo video for the VisEvent can be found by cliking the image below:
   </a>
 </p>
 
-![visevent-example](https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png)
+<img src="https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png" alt="VisEvent_examples" width="700"/>
 
 ## Video Tutorial
 The tutorial for this paper can be found by cliking the image below: 
