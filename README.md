@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_art.jpg" width="600">
+<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_art.jpg" width="700">
   
-** The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras **
+**The First Large-scale Benchmark Dataset for Reliable Object Tracking by fusing RGB and Event Cameras**
 
 ------
 
