@@ -1,6 +1,10 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* **STNet**: **Spiking Transformers for Event-based Single Object Tracking**, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]
+[[Project](https://zhangjiqing.com/publication/stnet/)]
+[[Code](https://github.com/Jee-King/CVPR2022_STNet)]
 
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows.** Wang, Xiao, et al. arXiv preprint arXiv:2108.05015 (2021). 
 
