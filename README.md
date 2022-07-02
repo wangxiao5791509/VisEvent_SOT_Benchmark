@@ -7,7 +7,7 @@
 ------
 
 <p align="center">
-  <a href="https://sites.google.com/view/viseventtrack/">Project</a> •
+  • <a href="https://sites.google.com/view/viseventtrack/">Project</a> •
   <a href="https://arxiv.org/abs/2108.05015">arXiv</a> • 
   <a href="https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines">Baselines</a> •
   <a href="https://youtu.be/U4uUjci9Gjc">DemoVideo</a> • 
