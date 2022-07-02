@@ -73,9 +73,11 @@ Uploading ... Please wait ...
 ## Baseline Methods
 The source code of baseline trackers by fusing dual-modalities can be found at: [[RGB-DVS-SOT-Baselines](https://github.com/wangxiao5791509/RGB-DVS-SOT-Baselines)].
 
-<img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_baselines.png" alt="VisEvent_Baselines" width="700"/>
-
-
+<p align="center">
+  <a href="https://youtu.be/U4uUjci9Gjc">
+    <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_baselines.png" alt="VisEvent_Baselines" width="700"/>
+  </a>
+</p>
 
 
 ## How to load the aedat4 file? 
