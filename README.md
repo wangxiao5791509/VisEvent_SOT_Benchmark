@@ -23,6 +23,8 @@
 
 ## News: 
 
+* 2022.07.14 Update the VOT2019-RGB-Event dataset used in our paper [BaiduYun]. 
+
 * 2022.02.10 Update paper list for event camera based tracking [[Event_Tracking_Paper_List](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/Event_Tracking_Paper_List.md)]. 
 
 * 2021.10.13 Update the links for onedrive. 
