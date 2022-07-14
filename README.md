@@ -75,7 +75,7 @@ Password：AHUE
 Link: Clik both [[here](https://ahueducn-my.sharepoint.com/:f:/g/personal/xiaowang_ahu_edu_cn/EvbARP-FXOZIj4r6gmGUHgYBWqFzmq4-C9tQovnjbo2Q4A?e=Fc82X5)] and  [[VisEvent_train.z05](https://ahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EcK-_4kOtk5OmVX73OWM4REBLX_jUmM5_bAHsdexBdzJeA?e=sq07U6)]. 
 
 
-#### Download links for VOT2019-RGB-Event dataset used in our paper 
+#### Download links for **VOT2019-RGB-Event dataset** (36.3 GB) used in our paper 
 ```
 Link：https://pan.baidu.com/s/1cS79d1dJFD8mF0AwuGG5Og   Password: AHUT 
 ```
