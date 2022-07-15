@@ -73,7 +73,6 @@ Password：AHUE
 
 
 * **Onedrive:** 
-
 Link: Clik both [[here](https://ahueducn-my.sharepoint.com/:f:/g/personal/xiaowang_ahu_edu_cn/EvbARP-FXOZIj4r6gmGUHgYBWqFzmq4-C9tQovnjbo2Q4A?e=Fc82X5)] and  [[VisEvent_train.z05](https://ahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EcK-_4kOtk5OmVX73OWM4REBLX_jUmM5_bAHsdexBdzJeA?e=sq07U6)]. 
 
 
