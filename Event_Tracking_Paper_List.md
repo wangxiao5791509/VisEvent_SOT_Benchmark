@@ -1,22 +1,31 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* **Prompting for Multi-Modal Tracking**, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song, 
+[[Paper](https://arxiv.org/abs/2207.14571)]
+
+
 * **STNet**: **Spiking Transformers for Event-based Single Object Tracking**, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]
 [[Project](https://zhangjiqing.com/publication/stnet/)]
 [[Code](https://github.com/Jee-King/CVPR2022_STNet)]
 
+
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows.** Wang, Xiao, et al. arXiv preprint arXiv:2108.05015 (2021). 
+
 
 * Luo, Yihao, et al. "**Conversion of Siamese networks to spiking neural networks for energy-efficient object tracking.**" 
 Neural Computing and Applications (2022): 1-16. [[Paper](https://link.springer.com/content/pdf/10.1007/s00521-022-06984-1.pdf)]
 
+
 * Zhang J, Yang X, Fu Y, et al. Object Tracking by Jointly Exploiting Frame and Event Domain
 [C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13043-13052.
+
 
 * Real-Time Event-Based Tracking and Detection for Maritime Environments, 
 Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, and Justin Mauger,  IEEE AIPR 2021 (Oral) 
 [[Paper](https://arxiv.org/pdf/2202.04231.pdf)]
+
 
 * Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking，CGI 2021, 
 Jiqing Zhang， Kai Zhao， Bo Dong， Yingkai Fu， Yuxin Wang， Xin Yang， Baocai Yin 
