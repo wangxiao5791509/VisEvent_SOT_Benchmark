@@ -14,8 +14,8 @@ def extract_davis(aedat_file_path, filename_txt_path, croped_events_path, save_p
     frame_all = []
     frame_exposure_time = []
     frame_interval_time = []
-    # use_mode = 'frame_exposure_time'  #### default mode 
-    use_mode = 'frame_interval_time'
+    use_mode = 'frame_exposure_time'  #### default mode 
+    # use_mode = 'frame_interval_time'
     with AedatFile(aedat_file_path) as f:
         # list all the names of streams in the file
         print(f.names)
