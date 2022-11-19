@@ -1,6 +1,10 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* [NIPS 2022] **Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds**, Zhiyu ZHU, Junhui HOU, Xianqiang LYU 
+[[Paper](https://openreview.net/pdf?id=hTxYJAKY85)] 
+[[Code](https://github.com/ZHU-Zhiyu/Event-tracking)]
+
 * **Prompting for Multi-Modal Tracking**, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song, 
 [[Paper](https://arxiv.org/abs/2207.14571)]
 
