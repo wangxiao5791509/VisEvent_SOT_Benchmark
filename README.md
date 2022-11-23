@@ -23,6 +23,9 @@
 
 ## News: 
 
+* :fire: [2022.11.23] A new Color Frame + Event Stream based Tracking dataset **COESOT** is available at 
+[[arXiv](https://arxiv.org/abs/2211.11010)] [[GitHub](https://github.com/Event-AHU/COESOT)]
+
 * :fire: [2022.10.19] Event camera (DVS, Spike) based Papers Published on Top International Conference [[
 Event_Camera_in_Top_Conference](https://github.com/Event-AHU/Event_Camera_in_Top_Conference)]
 
