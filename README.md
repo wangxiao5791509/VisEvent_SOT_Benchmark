@@ -23,6 +23,8 @@
 
 ## News: 
 
+* :fire: [2022.11.27] Due to some aedat4 files are missing, you can use part of this dataset according to this list: [[aedat4HARDVS_list](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/aedat4HARDVS_list.txt)]  
+
 * :fire: [2022.11.23] A new Color Frame + Event Stream based Tracking dataset **COESOT** is available at 
 [[arXiv](https://arxiv.org/abs/2211.11010)] [[GitHub](https://github.com/Event-AHU/COESOT)]
 
