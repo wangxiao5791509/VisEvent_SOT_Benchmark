@@ -1,6 +1,11 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian 
+[[Paper](https://arxiv.org/abs/2211.11010)]
+[[DemoVideo](https://youtu.be/_ROv09rvi2k)] 
+[[Github](https://github.com/Event-AHU/COESOT)]
+
 * **Data-driven Feature Tracking for Event Cameras**, Nico Messikommer* Carter Fang∗ Mathias Gehrig Davide Scaramuzza 
 [[Paper](https://arxiv.org/pdf/2211.12826.pdf)] 
 [[DemoVideo](https://youtu.be/aZBapP5Gdv8)]
