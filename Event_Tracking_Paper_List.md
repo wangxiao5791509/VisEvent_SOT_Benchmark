@@ -1,6 +1,9 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* **Event-based Visual Tracking in Dynamic Environments**, Irene Perez-Salesa, Rodrigo Aldana-Lopez, and Carlos Sag ´u¨es, arXiv 2212.07754, 
+[[Paper](https://arxiv.org/pdf/2212.07754.pdf)] 
+
 * **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian 
 [[Paper](https://arxiv.org/abs/2211.11010)]
 [[DemoVideo](https://youtu.be/_ROv09rvi2k)] 
