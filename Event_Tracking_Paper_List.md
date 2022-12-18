@@ -1,8 +1,8 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
-* **Spike-based Motion Estimation for Object Tracking through Bio-inspired Unsupervised Learning**, Yajing Zheng, Zhaofei Yu, Song Wang, Tiejun Huang 
-[[IEEE](https://ersp.ahu.edu.cn/s/org/ieee/ieeexplore/G.https/stamp/stamp.jsp?tp=&arnumber=9985998)]
+* **Spike-based Motion Estimation for Object Tracking through Bio-inspired Unsupervised Learning**, Yajing Zheng, Zhaofei Yu, Song Wang, Tiejun Huang, IEEE TRANSACTIONS ON IMAGE PROCESSING (TIP), 2022, 
+[[Paper](https://ersp.ahu.edu.cn/s/org/ieee/ieeexplore/G.https/stamp/stamp.jsp?tp=&arnumber=9985998)]
 
 
 * **Event-based Visual Tracking in Dynamic Environments**, Irene Perez-Salesa, Rodrigo Aldana-Lopez, and Carlos Sag ´u¨es, arXiv 2212.07754, 
