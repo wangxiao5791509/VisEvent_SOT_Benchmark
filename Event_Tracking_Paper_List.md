@@ -1,7 +1,7 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
-* Object Preserving Siamese Network for Single Object Tracking on Point Clouds, Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu, 
+* **Object Preserving Siamese Network for Single Object Tracking on Point Clouds**, Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu, 
 [[Paper](https://arxiv.org/pdf/2301.12057.pdf)]
 
 * **Spike-based Motion Estimation for Object Tracking through Bio-inspired Unsupervised Learning**, Yajing Zheng, Zhaofei Yu, Song Wang, Tiejun Huang, IEEE TRANSACTIONS ON IMAGE PROCESSING (TIP), 2022, 
