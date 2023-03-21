@@ -1,6 +1,10 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+* **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu, 
+[[Paper](https://arxiv.org/pdf/2303.10826.pdf)] 
+[[Code](https://github.com/jiawen-zhu/ViPT)]
+
 * **Object Preserving Siamese Network for Single Object Tracking on Point Clouds**, Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu, 
 [[Paper](https://arxiv.org/pdf/2301.12057.pdf)]
 
