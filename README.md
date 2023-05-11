@@ -210,8 +210,8 @@ Only matlab version is available.
 
 
 
-
-
+## License
+This project is under the MIT license. See [[license](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/License)] for details. 
 
 
 ## :page_with_curl: BibTex: 
