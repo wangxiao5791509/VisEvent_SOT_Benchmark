@@ -110,7 +110,7 @@ The source code of baseline trackers by fusing dual-modalities can be found at: 
 
 
 ## How to load the aedat4 file? 
-We provide a python script ([**read_aedat4.py**](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/scripts/read_aedat4.py)) to load the aedat4 file. You can download one aedat4 file to feel the data style: [[dvSave-2021_12_21_16_52_14.aedat4](https://drive.google.com/file/d/11cd-fstD7eLZBFyXv-b0BNdegebSJI4G/view?usp=sharing)]
+We provide a python script ([**read_aedat4.py**](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/scripts/read_aedat4.py)) to load the aedat4 file. You can download one aedat4 file to feel the data style: [[dvSave-2021_12_21_16_32_19.aedat4](https://drive.google.com/file/d/1cMCVocWA3bfnIX1WlKqMNACWiYvFZ1rC/view?usp=share_link)]
 
 
 Here is an example: 
