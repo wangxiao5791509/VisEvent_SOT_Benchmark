@@ -1,6 +1,14 @@
 
 # Paper list for event camera (spiking neural network) based tracking 
 
+
+* "**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**." Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu. ArXiv (2023).
+[[Paper](https://arxiv.org/abs/2307.04129)]  
+
+* **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking** Jiqing Zhang · Yuanchen Wang · Wenxi Liu · Meng Li · Jinpeng Bai · Baocai Yin · Xin Yang 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf)] 
+[[Code](https://github.com/Jee-King/AFNet)] 
+
 * **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu, 
 [[Paper](https://arxiv.org/pdf/2303.10826.pdf)] 
 [[Code](https://github.com/jiawen-zhu/ViPT)]
