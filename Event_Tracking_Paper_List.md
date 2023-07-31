@@ -2,7 +2,7 @@
 # Paper list for event camera (spiking neural network) based tracking 
 
 
-* "**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**." Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu. ArXiv (2023).
+* "**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**." Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu. ICCV 2023, 
 [[Paper](https://arxiv.org/abs/2307.04129)]  [[Code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
 
 * **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking** Jiqing Zhang · Yuanchen Wang · Wenxi Liu · Meng Li · Jinpeng Bai · Baocai Yin · Xin Yang 
