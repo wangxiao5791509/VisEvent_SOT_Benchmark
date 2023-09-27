@@ -23,6 +23,9 @@
 
 ## News: 
 
+* :fire: [2023.09.27] A High Definition (HD) Event based Visual Object Tracking Benchmark Dataset (termed **EventVOT**) is available at
+[[arXiv](https://arxiv.org/abs/2309.14611)] [[Github](https://github.com/Event-AHU/EventVOT_Benchmark)] 
+
 * :fire: [2023.09.20] VisEvent is accepted by IEEE Transactions on Cybernetics 
 
 * :fire: [2022.11.27] Due to some aedat4 files are missing, you can use part of this dataset according to this list: [[aedat4HARDVS_list](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/aedat4HARDVS_list.txt)]  
