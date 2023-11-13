@@ -5,7 +5,7 @@
 
 * 
 
-* **[IEEE TIP-2023]** **Distractor-aware Event-based Tracking**, Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang [[Paper](https://arxiv.org/pdf/2310.14194.pdf)] 
+* **[IEEE TIP-2023]** **Distractor-aware Event-based Tracking**, Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang [[Paper](https://arxiv.org/pdf/2310.14194.pdf)] [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10299598)]
 
 * **[ICCV-2023]** "**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**." Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu. ICCV 2023, 
 [[Paper](https://arxiv.org/abs/2307.04129)]  [[Code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
@@ -14,12 +14,9 @@
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf)] 
 [[Code](https://github.com/Jee-King/AFNet)] 
 
-* [] **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu, 
+* [**CVPR-2023**] **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu, 
 [[Paper](https://arxiv.org/pdf/2303.10826.pdf)] 
 [[Code](https://github.com/jiawen-zhu/ViPT)]
-
-* **Object Preserving Siamese Network for Single Object Tracking on Point Clouds**, Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu, 
-[[Paper](https://arxiv.org/pdf/2301.12057.pdf)]
 
 * **Spike-based Motion Estimation for Object Tracking through Bio-inspired Unsupervised Learning**, Yajing Zheng, Zhaofei Yu, Song Wang, Tiejun Huang, IEEE TRANSACTIONS ON IMAGE PROCESSING (TIP), 2022, 
 [[Paper](https://ersp.ahu.edu.cn/s/org/ieee/ieeexplore/G.https/stamp/stamp.jsp?tp=&arnumber=9985998)]
