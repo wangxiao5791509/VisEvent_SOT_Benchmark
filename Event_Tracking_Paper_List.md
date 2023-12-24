@@ -3,6 +3,8 @@
 
 
 
+* **[IJCV-2023]** **A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions**[J]. Zhang J, Dong B, Fu Y, et al. International Journal of Computer Vision, 2023: 1-23. [[Paper](https://link.springer.com/article/10.1007/s11263-023-01959-8)] 
+
 * [arXiv-2023] **Single-Model and Any-Modality for Video Object Tracking**, Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma* Danda Pani Paudel, Luc Van Gool, Radu Timofte
 [[Paper](https://arxiv.org/pdf/2311.15851.pdf)]
 [[Code](https://github.com/Zongwei97/UnTrack)]
