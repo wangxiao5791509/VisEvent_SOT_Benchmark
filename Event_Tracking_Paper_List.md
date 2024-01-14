@@ -2,6 +2,8 @@
 # Paper list for event camera (spiking neural network) based tracking 
 
 
+* **SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**, Song Wang, Zhu Wang, Can Li, Xiaojuan Qi, Hayden Kwok-Hay So
+  [[Paper](https://arxiv.org/pdf/2309.16987.pdf)]
 
 * **[IJCV-2023]** **A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions**[J]. Zhang J, Dong B, Fu Y, et al. International Journal of Computer Vision, 2023: 1-23. [[Paper](https://link.springer.com/article/10.1007/s11263-023-01959-8)] 
 
