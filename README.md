@@ -23,6 +23,11 @@
 
 ## News: 
 
+* :fire: [2024.03.12] A New Long-term RGB-Event based Visual Object Tracking Benchmark Dataset (termed **FELT**) is available at
+  [[Paper](https://arxiv.org/pdf/2403.05839.pdf)] 
+  [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] 
+  [[DemoVideo](https://youtu.be/6zxiBHTqOhE?si=6ARRGFdBLSxyp3G8)]  
+
 * :fire: [2023.09.27] A High Definition (HD) Event based Visual Object Tracking Benchmark Dataset (termed **EventVOT**) is available at
 [[arXiv](https://arxiv.org/abs/2309.14611)] [[Github](https://github.com/Event-AHU/EventVOT_Benchmark)] 
 
