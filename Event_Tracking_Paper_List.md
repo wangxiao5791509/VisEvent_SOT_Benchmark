@@ -150,7 +150,10 @@ IEEE Computer Society Conference on Computer Vision and Pattern Recognition Work
 Journal of microscopy 245.3 (2012): 236-244. 
 [[Paper](https://d1wqtxts1xzle7.cloudfront.net/43547699/Asynchronous_event-based_high_speed_visi20160309-14281-1284m08.pdf?1457537197=&response-content-disposition=inline%3B+filename%3DAsynchronous_event_based_high_speed_visi.pdf&Expires=1599041043&Signature=NGcfjbKclbyVdzNlDtndtKxuCimaNn9Ntoqpb~UFKbXFopPZh~59jjJGVp5a2iYSfztF1TvqHVGexsP0ubW8tq3wmeSvUFEM-l1uB6cXhDAvSxUGKKRKnDahaxnyH~Lapq3lky3QNlT0KJqZeDGIvTDyAwccjdzb65vRTbWSz6bUnY2-gHVLiFgJLbhxLMsrlnKTLIViI7eznBKzN11yk4CesYsvggFclw7LJHaaerH~O3yoBxDqF0a-VOhH9rxRJ0c-aIMW5rtZTxHTMCAQDwSPOpfMpxbO-4-k5~oE-JG0HfFE-cDXPJrstjU7TixQS9Mj8IkJO4vXEc7kT3i4Kw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
-
+* **SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**, CVPR-2024, 
+  Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu
+  [[Paper](https://arxiv.org/abs/2403.16002)]
+  [[Code](https://github.com/hoqolo/SDSTrack)]
 
 
 
