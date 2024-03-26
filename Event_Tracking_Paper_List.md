@@ -155,7 +155,9 @@ Journal of microscopy 245.3 (2012): 236-244.
   [[Paper](https://arxiv.org/abs/2403.16002)]
   [[Code](https://github.com/hoqolo/SDSTrack)]
 
-
+* [SeqTrackv2] **Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking**,
+  Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang, Houwen Peng, Huchuan Lu
+  [[SeqTrackv2](https://github.com/chenxin-dlut/SeqTrackv2)]
 
 
 
