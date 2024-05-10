@@ -159,7 +159,12 @@ Journal of microscopy 245.3 (2012): 236-244.
   Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang, Houwen Peng, Huchuan Lu
   [[SeqTrackv2](https://github.com/chenxin-dlut/SeqTrackv2)]
 
+* [arXiv:2405.05004] **TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**,
+  Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler
+  [[Paper](https://arxiv.org/abs/2405.05004)]
+  [[Code](https://github.com/SSSpc333/TENet)]
 
+* 
 
 
 
