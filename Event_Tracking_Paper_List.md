@@ -168,7 +168,9 @@ Journal of microscopy 245.3 (2012): 236-244.
   Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte
   [[Paper](https://arxiv.org/abs/2405.17773)]
 
-* 
+* [arXiv:2405.17903] **Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**,
+  Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo
+  [[Paper](https://arxiv.org/abs/2405.17903)] 
 
 
 
