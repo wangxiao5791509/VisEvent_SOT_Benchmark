@@ -164,6 +164,10 @@ Journal of microscopy 245.3 (2012): 236-244.
   [[Paper](https://arxiv.org/abs/2405.05004)]
   [[Code](https://github.com/SSSpc333/TENet)]
 
+* [arXiv:2405.17773] **Towards a Generalist and Blind RGB-X Tracker**,
+  Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte
+  [[Paper](https://arxiv.org/abs/2405.17773)]
+
 * 
 
 
