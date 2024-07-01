@@ -172,7 +172,11 @@ Journal of microscopy 245.3 (2012): 236-244.
   Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo
   [[Paper](https://arxiv.org/abs/2405.17903)] 
 
+* **eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**, Yucheng Chen, Lin Wang
+  [[Paper](https://arxiv.org/abs/2406.20024)] 
+  [[Code](https://vlislab22.github.io/eMoE-Tracker/)]
 
+* 
 
 
 
