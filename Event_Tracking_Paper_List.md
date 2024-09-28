@@ -176,9 +176,10 @@ Journal of microscopy 245.3 (2012): 236-244.
   [[Paper](https://arxiv.org/abs/2406.20024)] 
   [[Code](https://vlislab22.github.io/eMoE-Tracker/)]
 
-* 
-
-
+* **Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking**,
+  Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler
+  [[Paper](https://arxiv.org/abs/2409.17560)]
+  
 
 
 
