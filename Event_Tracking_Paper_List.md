@@ -180,8 +180,9 @@ Journal of microscopy 245.3 (2012): 236-244.
   Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler
   [[Paper](https://arxiv.org/abs/2409.17560)]
   
-
-
+* **Adaptive Perception for Unified Visual Multi-modal Object Tracking**,
+  Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang
+  [[Paper](https://arxiv.org/abs/2502.06583)]
 
 
 
