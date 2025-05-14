@@ -60,27 +60,21 @@
 Neural Computing and Applications (2022): 1-16. [[Paper](https://link.springer.com/content/pdf/10.1007/s00521-022-06984-1.pdf)]
 
 
-* Zhang J, Yang X, Fu Y, et al. Object Tracking by Jointly Exploiting Frame and Event Domain
-[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13043-13052.
+* Zhang J, Yang X, Fu Y, et al. **Object Tracking by Jointly Exploiting Frame and Event Domain**, [C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13043-13052.
 
-
-* Real-Time Event-Based Tracking and Detection for Maritime Environments, 
-Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, and Justin Mauger,  IEEE AIPR 2021 (Oral) 
+* **Real-Time Event-Based Tracking and Detection for Maritime Environments**, Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, and Justin Mauger,  IEEE AIPR 2021 (Oral) 
 [[Paper](https://arxiv.org/pdf/2202.04231.pdf)]
 
-
-* Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking，CGI 2021, 
-Jiqing Zhang， Kai Zhao， Bo Dong， Yingkai Fu， Yuxin Wang， Xin Yang， Baocai Yin 
+* **Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking**，CGI 2021, Jiqing Zhang， Kai Zhao， Bo Dong， Yingkai Fu， Yuxin Wang， Xin Yang， Baocai Yin 
 [[Paper](https://arxiv.org/pdf/2108.04521.pdf)]
 
-* Deng, Lei, et al. "Fast object tracking on a many-core neural network chip." Frontiers in Neuroscience 12 (2018): 841. 
+* Deng, Lei, et al. "**Fast object tracking on a many-core neural network chip.**" Frontiers in Neuroscience 12 (2018): 841. 
 [[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/full)]
 
-* Jiang, Rui, et al. "Object tracking on event cameras with offline–online learning." CAAI Transactions on Intelligence Technology (2020) 
+* Jiang, Rui, et al. "**Object tracking on event cameras with offline–online learning.**" CAAI Transactions on Intelligence Technology (2020) 
 [[Paper](https://www.researchgate.net/profile/Rui_Jiang31/publication/341045469_Object_Tracking_on_Event_Cameras_with_Offline-Online_Learning/links/5ebfeadea6fdcc90d67a4af3/Object-Tracking-on-Event-Cameras-with-Offline-Online-Learning.pdf)]
 
-* Retinal Slip Estimation and Object Tracking with an Active Event Camera 
-[[AICAS-2020](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/9073922/)]
+* **Retinal Slip Estimation and Object Tracking with an Active Event Camera**, [[AICAS-2020](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/9073922/)]
 
 * Zhang, Y. (2019). Real‑time object tracking for event cameras. Master's thesis, Nanyang Technological University, Singapore. 
 [[Thesis](https://dr.ntu.edu.sg/bitstream/10356/137297/2/Thesis_ZhangYexin.pdf)]
@@ -184,6 +178,10 @@ Journal of microscopy 245.3 (2012): 236-244.
   Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang
   [[Paper](https://arxiv.org/abs/2502.06583)]
 
+* [IEEE TCSVT-2025] M. Wang, F. Shi, X. Cheng and S. Chen, "**Prior Knowledge-Driven Hybrid Prompter Learning for RGB-Event Tracking**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2025.3559614.
+  [[Paper](https://ieeexplore.ieee.org/document/10962221)]
+
+* 
 
 
 
